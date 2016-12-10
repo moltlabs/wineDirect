@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=newYearOfBirth\ newEmail\ newId
+comment0.target=Browser(int,\ java.lang.String,\ int)
+comment1.params=newYearOfBirth\ newEmail
+comment1.target=Browser(int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ payForWine()
+comment11.params=
+comment11.target=WineCase\ getWineCase()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=int\ getYearOfBirth()
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=newLogin
+comment5.target=void\ setBuyerStatus(boolean)
+comment6.params=newId
+comment6.target=void\ setId(int)
+comment7.params=selectedWine
+comment7.target=void\ selectWineCase(WineCase)
+comment8.params=
+comment8.target=void\ showBasket()
+comment9.params=newWebsite
+comment9.target=void\ setWebsite(Website)
+numComments=12

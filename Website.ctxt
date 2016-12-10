@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Website()
+comment1.params=
+comment1.target=int\ getHits()
+comment2.params=
+comment2.target=float\ getSalesTotal()
+comment3.params=browser
+comment3.target=void\ buyerLogin(Browser)
+comment4.params=browser
+comment4.target=void\ becomeBuyer(Browser)
+comment5.params=browser
+comment5.target=void\ checkout(Browser)
+comment6.params=
+comment6.target=boolean\ checkHitDiscount()
+comment7.params=
+comment7.target=void\ logout()
+numComments=8
